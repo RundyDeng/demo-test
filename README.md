@@ -1,2 +1,2 @@
-# Git_repository
-demo
+# springboot-stock
+stockcode-demo
